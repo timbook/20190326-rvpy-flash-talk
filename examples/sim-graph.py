@@ -26,4 +26,4 @@ plt.hist(
 
 plt.legend()
 
-plt.savefig('./laplace-hists.png', dpi=192)
+plt.savefig('../imgs/laplace-hists.png', dpi=192)
