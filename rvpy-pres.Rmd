@@ -68,7 +68,7 @@ Y = X + 5
 ```
 
 \begin{center}
-\includegraphics[width=3in]{examples/laplace-hists.png}
+\includegraphics[width=3in]{imgs/laplace-hists.png}
 \end{center}
 
 ## What I've Got So Far
@@ -164,6 +164,24 @@ with
 X = A + B + C
 X_sample = X.sample(n)
 ```
+
+## Contributing
+If you want to help with any of these things, please fork me!
+
+https://www.github.com/timbook/rvpy
+
+\bigskip
+
+\begin{center}
+\includegraphics[width=2in]{imgs/last-contrib.png}
+\end{center}
+
+---
+
+\Huge{Thank You!}
+
+\bigskip
+\small{\textit{(please clap)}}
 
 
 
